@@ -1,0 +1,3 @@
+﻿  NimGame.cpp
+C:\Users\khale\OneDrive\Bureau\PROJECT\NimGame\NimGame.cpp(173,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NimGame.vcxproj -> C:\Users\khale\OneDrive\Bureau\PROJECT\NimGame\x64\Debug\NimGame.exe
