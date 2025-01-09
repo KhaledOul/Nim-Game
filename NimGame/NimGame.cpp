@@ -1,4 +1,4 @@
-//Mohamed Ali Al-Difai and Khaled Oulachi                IDs : 40278631,  40284707
+//Mohamed Ali Al-Difai and Khaled Oulhaci                
 
 #include <iostream>
 #include <ctime>
